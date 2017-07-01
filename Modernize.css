@@ -1,0 +1,54 @@
+
+body{
+    background-color: black;
+}
+.logo{
+        width: 341px;
+}
+#header h1{
+        display: inline;
+        vertical-align: top;
+        margin-left: 180px;
+        color: white;
+}
+.bar{
+    background-color: gray;
+    color: white;
+    list-style-type: none;
+    display: inline;
+}
+.main{
+    width: 300px;
+}
+.picture{
+    display: initial;
+    width: 150px;
+}
+.paragraph{
+    border-radius: dotted green;
+    display: inline-block
+}
+.paragraph h1{
+    color: orange
+}
+#info{
+    width: auto;
+}
+#info h1{
+    color: orangered;
+}
+.buy{
+    display: inline;
+    color: orangered;
+    font-size: 25px;
+    border-radius: solid gray;
+}
+.bpicture{
+    display: inline;
+}
+.end{
+    display: inline-block;
+}
+.end h1{
+    color: orange;
+}
